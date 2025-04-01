@@ -23,14 +23,10 @@ Somos a GymStats somos uma microempresa focada em gerenciamento de sistemas de a
 
 # Contribuidores
 
-- *Thiago Fernandes de Medeiros - tfm3@cesar.school*
+- *Pablo José Pellegrino Cintra - pjpc@cesar.school*
 
 - *Raul Vitor Ferraz Silva - rvfs@cesar.shool*
-
-- *Pablo José Pellegrino Cintra - pjpc@cesar.school*
 
 - *Joao Victor Guimarães Cavalcanti Uchôa - jvgcu@cesar.school*
 
 - *Luís Eduardo Bérard de Paiva Moura Rodrigues -lebpmr@cesar.school*
-
-- *Raul Vitor Ferraz Silva - rvfs@cesar.school*
