@@ -30,5 +30,3 @@ Somos a GymStats somos uma microempresa focada em gerenciamento de sistemas de a
 - *Joao Victor Guimarães Cavalcanti Uchôa - jvgcu@cesar.school*
 
 - *Luís Eduardo Bérard de Paiva Moura Rodrigues -lebpmr@cesar.school*
-
-- *Teste*
